@@ -13,6 +13,6 @@ python data process.py
 python train.py sparse_rcnn_r50_fpn_1x_coco.py
 
 testing：
-test (1).ipynb
+test (3).ipynb
 
 
